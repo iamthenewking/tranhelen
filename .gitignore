@@ -1,0 +1,11 @@
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+.htaccess
+_site/
+Gemfile
+Gemfile.lock
+_posts/.Ulysses-Group.plist
+_posts/.Ulysses-favorites.plist
