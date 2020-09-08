@@ -15,8 +15,7 @@ exclude:
 name: Helen Tran; Product Designer
 description: Helen Tran is a Product Designer working at Shopify. She blogs about
   her life, technology, management and design.
-url: http://helentran.com
-baseurl: /tranhelen
+url: /
 gems:
 - jekyll-feed
 - jekyll-redirect-from
